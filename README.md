@@ -1,6 +1,6 @@
 <img align="left" width="90" height="90" src="/resources/icon.png" alt="logo" style="margin-right: 1rem" />
 
-# pandoc
+# lanalogdeve
 
 **fishstick**は、音楽を耳と目で楽しむためのデスクトップアプリケーションです。
 
