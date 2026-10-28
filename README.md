@@ -1,8 +1,8 @@
 <img align="left" width="90" height="90" src="/resources/icon.png" alt="logo" style="margin-right: 1rem" />
 
-# Muwviz
+# fishstick
 
-**Muwviz**は、音楽を耳と目で楽しむためのデスクトップアプリケーションです。
+**fishstick**は、音楽を耳と目で楽しむためのデスクトップアプリケーションです。
 
 <img align="left" width="45%" src="/screenshots/screenshot-light.png" alt="screenshot light mode" />
 
@@ -26,7 +26,7 @@
 
 ## ダウンロード
 
-[GitHub Release](https://github.com/antimacho612/Muwviz/releases)より、お使いのPCに合った最新版のインストーラをダウンロードし、インストールしてください。
+[GitHub Release](https://github.com/antimacho612/fishstick/releases)より、お使いのPCに合った最新版のインストーラをダウンロードし、インストールしてください。
 
 ## 使い方
 
@@ -88,4 +88,4 @@ npm run build:linux
 
 ## フィードバック
 
-バグ報告・ご意見・ご要望などは[GitHub Issues](https://github.com/antimacho612/Muwviz/issues/new/choose)までお願いします。
+バグ報告・ご意見・ご要望などは[GitHub Issues](https://github.com/antimacho612/fishstick/issues/new/choose)までお願いします。
